@@ -1,7 +1,7 @@
  👋 Hey, I'm Ahmed Khaled 
 
-.👨‍💻 I work as Mobile Application Developer 📱 .
-.I use Ract Native And JavaScript .
+.👨‍💻 I work as Mobile Application Developer 📱 .<br>
+.I use Ract Native And JavaScript .<br>
 .I Work as Back-End For Mobile Application (I use PHP AND MySQL)
 
 <!--
