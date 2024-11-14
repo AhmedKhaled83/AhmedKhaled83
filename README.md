@@ -1,8 +1,4 @@
- 👋 Hey, I'm Ahmed Khaled 
-
-.👨‍💻 I work as Mobile Application Developer 📱 .<br>
-.I use Ract Native And JavaScript .<br>
-.Back-End (I use PHP AND MySQL)<br>
+ 👋 Hey, I'm Ahmed Khaled, a Mobile Application Developer specializing in React Native and JavaScript with three years of hands-on experience. I enjoy building seamless, efficient mobile experiences and have a strong understanding of React.js.
 
 <!--
 **AhmedKhaled83/AhmedKhaled83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
